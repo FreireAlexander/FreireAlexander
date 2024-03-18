@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Freire Alexander Palomino Palma</h1>
-<h3 align="center">A Civil Engineer passionate for software developing from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Freire Palomino Palma</h1>
+<h3 align="center">A passionate for tech and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freirealexander&label=Profile%20views&color=0e75b6&style=flat" alt="freirealexander" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freirealexander" alt="freirealexander" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Cibersecurity**
+- 🌱 I’m currently skilling at **Data Science and Linux OS**
 
 - 📫 How to reach me **freirealexander0214@gmail.com**
 
