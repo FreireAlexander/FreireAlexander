@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freirealexander" alt="freirealexander" /></a> </p>
 
-- 🌱 I’m currently skilling at **Data Science and Linux OS**
+- 🌱 I’m currently skilling at **Web Design, CAD Design, Software Development and more**
 
 - 📫 How to reach me **freirealexander0214@gmail.com**
 
